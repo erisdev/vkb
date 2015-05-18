@@ -24,4 +24,4 @@ If you're having trouble following along, vkb is probably too dangerous for you.
 I like to use my old MacBook to play music and watch LiveStream while I do other things on the new one. Now I don't have to lean over to interact with it.
 
 ## Hacking and snacking.
-I consider this trivial shit. It's public domain. But feel free to send me yr sweet hax if you manage to improve on my undesign.
+~~I consider this trivial shit. It's public domain.~~ Nope fuck that. Everything is GNU Affero General Public License version 3. See [LICENSE](LICENSE). But feel free to send me yr sweet hax if you manage to improve on my undesign.
